@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px; /*Tamaño general*/
+    font-family: 'Montserrat', sans-serif;
+}
+
+:root  {
+    /* COLOR PALETTE */
+    --colorTextoClaro: rgba(60,60,67,0.6);
+    --colorBlack: #000000;
+    --colorBackground: #F2F2F7;
+    --colorBlue: #007AFF;
+
+    /* FONT SIZE */
+    --size17: 1.7rem;
+    --size15: 1.5rem;
+}

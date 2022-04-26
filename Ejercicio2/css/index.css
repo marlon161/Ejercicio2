@@ -1,0 +1,21 @@
+.login {
+    margin: 1rem 1rem;
+}
+
+.close {
+    font-size: var(--size17);
+    font-weight: 400;
+    color: var(--colorTextoClaro);
+}
+
+.title {
+    font-size: 4.5rem;
+    font-weight: 800;
+    
+    margin-top: 3.8rem;
+}
+
+.title_decorado {
+    font-size: 2rem;
+    font-weight: 600;
+}
